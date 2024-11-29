@@ -8,7 +8,7 @@ Before you begin, ensure you have the following installed:
 ### Installation
 
 1. **Clone the Repository**:
-   **git clone https://github.com/yourusername/biztech.git
+   **git clone https://github.com/hassam-472/BizTech.git
    cd biztech
 Install Dependencies:
 npm install
